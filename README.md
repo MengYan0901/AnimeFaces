@@ -1,2 +1,0 @@
-# AnimeFaces
-Progect1
