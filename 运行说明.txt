@@ -1,0 +1,12 @@
+下载图片 curl_images.py
+下载数量可以在代码里编辑
+
+1. 运行anime_dataset_gen.py
+
+2. 运行GAN_Trainingv3.py
+
+3. 运行loss_plot.py
+
+额外说明:
+1. 所有的py文件必须按照步骤运行
+2. 所有的py文件都要在vs code里面运行，这个软件已经把东西给你配置好了
